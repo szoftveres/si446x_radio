@@ -1,6 +1,6 @@
-# si446x dev board and software
+# Si446x RF transceiver dev board and software
 
-Generic development board and driver software for Si446x transceivers. The transceiver can be accessed through SPI interface and is designed to directly plug into the Adafruit FT232H board (SPI is implemented on top of GPIO).
+Generic development board and driver software for Si446x RF transceivers. The transceiver can be accessed through SPI interface and is designed to directly plug into the Adafruit FT232H board (SPI is implemented on top of GPIO).
 
 
 ![image 1](schem.png)
